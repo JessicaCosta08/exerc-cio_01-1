@@ -1,15 +1,15 @@
-import desafios
+import mundo01
 
-desafios.desafio001()
-
-
-desafios.desafio002()
+mundo01.desafio001()
 
 
-desafios.desafio003()
+mundo01.desafio002()
 
 
-desafios.desafio004()
+mundo01.desafio003()
 
 
-desafios.desafio005()
+mundo01.desafio004()
+
+
+mundo01.desafio005()
